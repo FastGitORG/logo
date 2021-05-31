@@ -7,7 +7,7 @@
 Updated time: 05/04/2020
 
 ![banner](https://github.com/FastGitORG/logo/raw/master/v2.1/banner.png)
-![banner-uk](https://github.com/FastGitORG/logo/raw/master/v2.1/banner-uk.png)
+![banner-uk](https://github.com/FastGitORG/logo/raw/master/v2.1/uk-banner.png)
 ![v2.1](https://github.com/FastGitORG/logo/raw/master/v2.1/logo.png)
 
 -----
